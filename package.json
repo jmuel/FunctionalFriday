@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mori": "~0.2.6",
+    "underscore": "~1.6.0",
+    "underscore-contrib": "~0.3.0"
+  }
+}
