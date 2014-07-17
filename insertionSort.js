@@ -16,4 +16,4 @@ var insertElementIntoSortedLocation = function(list, element, current) {
 };
 
 
-console.log(insertionSort([2,1,4,3,7,6,5]));
+console.log(insertionSort([2,1,4,3,7,6,5, -1]));
