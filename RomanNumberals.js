@@ -55,6 +55,6 @@ var findNumeral = function(number, numeralMap) {
 
 
 
-console.log(convertToRomanNumerals(666, ""));
+console.log(convertToRomanNumerals(44, ""));
 
-console.log(convertFromRomanNumerals("DCLIV", 0));
+console.log(convertFromRomanNumerals("ID", 0));
