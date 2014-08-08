@@ -12,4 +12,4 @@ var solveHanoi = function(num, a, b, c) {
     return hanoi(num, a, b, c);
 }
 
-solveHanoi(2, "A", "C", "B")
+solveHanoi(3, "A", "C", "B")
