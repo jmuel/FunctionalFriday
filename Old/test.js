@@ -1,4 +1,6 @@
 var _ = require('underscore');
-var m = require('mori');
 
-console.log(m.list(1,2,3) === [1,2,3]);
+var num = 5;
+
+console.log(_.filter([1,2,3,4,5,6], function(val) {return val < num}));
+
