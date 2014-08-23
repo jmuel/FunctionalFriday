@@ -14,6 +14,6 @@ var longest = 0;
 
 for(var i = 1; i <= 1000000; i++) {
     if(collatzSequence(i) > collatzSequence(longest)) longest = i;
-}
+};
 
-console.log(longest);
+console.log(longest, collatzSequence(longest));
